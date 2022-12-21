@@ -1,0 +1,10 @@
+package com.mukesh.kumar.app.entity;
+
+public class Posts {
+	
+	private int userId;
+	private int Id;
+	private String title;
+	private String body;
+
+}

@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.lombok=2
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.web=3
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.artifactId=SBT-ApiDataConsumer
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.bootVersion=2.7.6
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.dependencies=lombok web
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.description=This is SBT-Api Data Consumer Project
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.groupId=com.mukesh
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.javaVersion=1.8
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.language=java
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.name=SBT-ApiDataConsumer
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packageName=com.mukesh.kumar.app
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packaging=jar
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.type=MAVEN
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.version=0.0.1-SNAPSHOT
+org.springframework.ide.eclipse.boot.wizard.initializr.url=https\://start.spring.io\n

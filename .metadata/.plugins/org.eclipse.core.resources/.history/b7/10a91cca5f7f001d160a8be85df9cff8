@@ -1,0 +1,13 @@
+package com.mukesh.kumar.app;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SbtApiDataConsumerApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SbtApiDataConsumerApplication.class, args);
+	}
+
+}

@@ -1,0 +1,5 @@
+package com.mukesh.kumar.app.controller;
+
+public class PostConsumerController {
+
+}
